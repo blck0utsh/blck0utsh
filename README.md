@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# 💀 [CAIXA DE FERRAMENTAS DO VILÃO]
+# 💀 Ferramentas do Vilão
 `Arsenal: Carregado` | `Status: Stealth` | `Acesso: #root`
 
 ---
