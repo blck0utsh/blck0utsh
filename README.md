@@ -9,18 +9,6 @@
 
 <div align="center">
 
-# 💀 Ferramentas do Vilão
-`Arsenal: Carregado` | `Status: Stealth` | `Acesso: #root`
-
----
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNjMjRyMHVuazl5b3RjcW9vNjlrbXh6ZGsxbndsajAyYW9laHdtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgpSZzZWHeMLu/giphy.gif" width="48%" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN4Y3I1dW80cmtscHduaWVkYjR0OTRvZTNzNXF6aTlpZHoxcjBycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ryKkajMOMjYCQ/giphy.gif" width="48%" />
-</p>
-
----
-
 ### 🐚 ARSENAL
 ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python)
 ![Docker](https://img.shields.io/badge/Docker-121011?style=for-the-badge&logo=docker)
