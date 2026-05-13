@@ -1,30 +1,61 @@
-# 🌑 Blck0ut.sh/Jonas:: Terminal System
+<div align="center">
+  
+# 🖥️ [SISTEMA OPERACIONAL WERICKS] :: ACESSO CONCEDIDO
+`Status: Online` | `Environment: Ubuntu 22.04 LTS` | `Security: Active`
 
-> "Rodando em Ubuntu. Pensando em Shell Script. Sonhando com redes seguras."
+![Banner Dark Tech](https://capsule-render.vercel.app/render?type=venom&height=200&color=000000&text=WERICK-DEV&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=61dafb)
 
-![GIF de Anime Dark](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp/giphy.gif) 
-*(Dica: Escolha um GIF do Black Clover ou Wind Breaker em tons escuros)*
-
----
-
-### 📂 System.info
-- 💻 **OS:** Ubuntu Linux (Onde a mágica e o pânico acontecem)
-- 📡 **Current Focus:** Automação de Redes & Cybersecurity Fundamentals
-- 🎮 **Side Quests:** Minecraft Server Hosting & Maratona de Animes
-- 🛠️ **Favorite Tools:** `iptables`, `nmap`, `bash`, `vim`
-
-### ⚠️ Error Log (Humor Técnico)
-- **Error 404:** Vida social não encontrada enquanto o script de firewall não rodar.
-- **Status:** Se o `sudo` não resolver, nada resolve.
-- **Log:** "Eu não tenho bugs, minhas funções é que são incompreendidas."
-
-### ⚙️ Technologies & Skills
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
+*"Otimizar o código, proteger a rede e torcer para o sudo não pedir a senha duas vezes."*
 
 ---
 
-### 📈 Activity Monitor
-![Seu Gráfico de Atividades](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true)
+### 📡 NETWORK LOGS (O que estou fazendo?)
+| Atividade | Progresso | Status |
+| :--- | :---: | :--- |
+| **Escalar privilégios no Linux** | `[##########]` | 100% |
+| **Automatizar minha preguiça** | `[#######---]` | 70% |
+| **Estudos de Cybersecurity** | `[#####-----]` | 50% |
+| **Entender por que o firewall barrou a mim mesmo** | `[----------]` | ERROR |
+
+</div>
+
+---
+
+### 🛠️ CAIXA DE FERRAMENTAS DO VILÃO
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E94814?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-196120?style=for-the-badge&logo=vim&logoColor=white" />
+</div>
+
+---
+
+### 📂 SYSTEM.INFO (Sobre o Usuário)
+- **$ whoami:** Um entusiasta de segurança que prefere o terminal à luz do sol.
+- **$ locate:** Perdido em algum arquivo de log dentro do `/var/log/syslog`.
+- **$ alias:** `café="manutenção_de_emergência"`.
+- **$ favorite_anime:** Aqueles onde o protagonista é subestimado (estilo Black Clover).
+
+---
+
+### 💀 HUMOR DE ADMINISTRADOR (Error Log)
+> *"Eu não erro. São os pacotes que decidem seguir um caminho espiritual e abandonar a rede."*
+
+> *"Minha vida social foi bloqueada por uma regra de IPTables que eu esqueci de apagar."*
+
+---
+
+### 📊 ANALYTICS
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp/giphy.gif" width="300" />
+  <br>
+  <sub>**LOGOUT:** `exit` comando executado. Até a próxima vulnerabilidade.</sub>
+</div>
