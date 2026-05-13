@@ -9,7 +9,6 @@
 
 <div align="center">
 
-### 🐚 ARSENAL
 ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python)
 ![Docker](https://img.shields.io/badge/Docker-121011?style=for-the-badge&logo=docker)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
