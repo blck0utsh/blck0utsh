@@ -26,6 +26,9 @@
 ![Docker](https://img.shields.io/badge/Docker-121011?style=for-the-badge&logo=docker)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=ubuntu)
+![Pentest](https://img.shields.io/badge/Pentesting-121011?style=for-the-badge&logo=kalilinux)
+![Networks](https://img.shields.io/badge/Networking-121011?style=for-the-badge&logo=cisco)
+![Protocols](https://img.shields.io/badge/TCP/IP_Analysis-121011?style=for-the-badge&logo=wireshark)
 
 ### 🔌 HARDWARE LAB
 ![Arduino](https://img.shields.io/badge/Arduino-121011?style=for-the-badge&logo=arduino)
@@ -34,18 +37,19 @@
 
 ---
 
-### 📂 SYSTEM LOGS
-- **$ whoami:** Entusiasta de segurança e automação.
-- **$ status:** Operando nas sombras da rede `10.10.1.0/24`.
-- **$ error:** Vida social bloqueada por regras de `iptables`.
-
 ---
 
-### 📊 ANALYTICS
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+### 📡 LIVE INTERCEPTION (Commit Activity)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Langs" height="180px" />
 
----
+  <br>
 
-<sub>**"Minha magia é não desistir do código até o erro sumir."**</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
+
+---
